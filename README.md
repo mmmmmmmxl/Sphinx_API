@@ -1,0 +1,2 @@
+##SphinxAPI
+功能: sphinx的实时索引增删改查的API 由于sphinx提供的官方API中不支持对实时索引增删操作，只能使用mysql的客户端，这里对其进行实现。
